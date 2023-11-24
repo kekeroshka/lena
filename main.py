@@ -9,6 +9,7 @@ def main():
     print('UFO came and added this line')
     my_superfunction()
     second_function()
+    print(1)
 
 def second_function():
     print(":)")
