@@ -8,7 +8,10 @@ def main():
     print('Again')
     print('UFO came and added this line')
     my_superfunction()
+    second_function()
 
+def second_function():
+    print(":)")
 
 if __name__ == '__main__':
     main()
